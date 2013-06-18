@@ -1,18 +1,16 @@
 NiceFade: A jQuery slideshow plugin
 ===================================
 
-### Author &mdash; Caleb Pierce : http://calebpierce.com
-
 DOM structure:
 -------------------------------
 
-<pre>
+```
 ul or ol.nicefade_container
 	li (these are the slides)
 ul or ol.nicefade_index-list (same length as items in slideshow) (optional)
 	li (these are the slide indices)
 		a
-</pre>
+```
 			
 Options:
 -------------------------------
